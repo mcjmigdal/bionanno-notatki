@@ -1,0 +1,691 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2016.8.30)  27 DEC 2016 19:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**molecules_of_life.tex
+(./molecules_of_life.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-dist/tex/latex/xymtex/base/xymtexpdf.sty
+Package `xymtexpdf' (ver5.01) <March 10, 2013> [SF]
+xymtexpdf.sty ver5.01 (for LaTeX2e) 2013/03/10[SF]
+(/usr/share/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+(/usr/share/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count87
+\d@lta=\count88
+\@delta=\dimen103
+\@@delta=\dimen104
+\@gridcnt=\count89
+\@joinkind=\count90
+\@dotgap=\dimen105
+\@ddotgap=\dimen106
+\@x@diff=\count91
+\@y@diff=\count92
+\x@diff=\dimen107
+\y@diff=\dimen108
+\@dotbox=\box26
+\num@segments=\count93
+\num@segmentsi=\count94
+\@datafile=\read1
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/chemstr.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released June 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `chemstr' (ver5.01) <June 19, 2013> [SF]
+\@tempcntXa=\count95
+\@tempcntYa=\count96
+\@tempcntz=\count97
+\@tempcntXb=\count98
+\@tempcntYb=\count99
+\@tempcntzz=\count100
+\@tempcntXc=\count101
+\@tempcntYc=\count102
+\@tempcntzzz=\count103
+\@tempcntXd=\count104
+\@tempcntYd=\count105
+\@tempcntzzzz=\count106
+\@dimtempa=\dimen109
+\@tempdimd=\dimen110
+\@tempdime=\dimen111
+\@cnttempa=\count107
+\@cnttempb=\count108
+\noshift=\count109
+\shifti=\count110
+\shiftii=\count111
+\shiftiii=\count112
+\@tmpaa=\count113
+\yl@xdiff=\count114
+\yl@ydiff=\count115
+\yl@shiftii=\count116
+\yl@shifti=\count117
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count118
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+\x@ryl=\count119
+\y@ryl=\count120
+)
+(/usr/share/texmf-dist/tex/latex/xymtex/base/carom.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `carom' (ver5.00) <October 01, 2010> [SF]
+(/usr/share/texmf-dist/tex/latex/xymtex/base/hetarom.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetarom' (ver5.01) <March 19, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/hetaromh.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetaromh' (ver5.01) <March 19, 2013> [SF]
+)) (/usr/share/texmf-dist/tex/latex/xymtex/base/hetarom.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetarom' (ver5.01) <March 19, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/hetaromh.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released March 19, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hetaromh' (ver5.01) <March 19, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/lowcycle.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `lowcycle' (ver5.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/ccycle.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released July 23, 2013 by Shinsaku Fujita
+XyMTeX Macro File `ccycle' (ver5.01) <July 23, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/hcycle.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released June 25, 2013 by Shinsaku Fujita
+XyMTeX Macro File `hcycle' (ver5.01) <June 25, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/aliphat.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released July 20, 2013 by Shinsaku Fujita
+XyMTeX Macro File `aliphat' (ver5.01) <July 20, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/locant.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `locant' (ver4.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/polymers.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `polymers' (ver5.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/methylen.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released July 20, 2013 by Shinsaku Fujita
+XyMTeX Macro File `methylen' (ver5.01) <July 20, 2013> [SF]
+\test@termcnt=\count121
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/fusering.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `fusering' (ver5.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/sizeredc.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `sizeredc' (ver5.00) <October 01, 2010> [SF]
+\@tempcntx=\count122
+\@tempcnty=\count123
+\@tempcntz=\count124
+\@xArg=\count125
+\@yArg=\count126
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/steroid.sty
+XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `steroid' (ver5.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/lewisstruc.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released August 02, 2013 by Shinsaku Fujita
+XyMTeX Macro File `lewisstruc' (ver5.01) <August 02, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/bondcolor.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `bondcolor' (ver5.00) <October 01, 2010> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/base/assurelatexmode.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.01
+ -- Released May 27, 2013 by Shinsaku Fujita
+XyMTeX Macro File `assurelatexmode' (ver5.01) <May 27, 2013> [SF]
+) (/usr/share/texmf-dist/tex/latex/xymtex/xymtxpdf/xymtx-pdf.sty
+XyMTeX Macro File `xymtx-pdf' (ver5.01) <June 21, 2013> [SF]
+(/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks14
+\pgfutil@tempdima=\dimen112
+\pgfutil@tempdimb=\dimen113
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box27
+
+(/usr/share/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks16
+\pgfkeys@temptoks=\toks17
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks18
+))
+\pgf@x=\dimen116
+\pgf@y=\dimen117
+\pgf@xa=\dimen118
+\pgf@ya=\dimen119
+\pgf@xb=\dimen120
+\pgf@yb=\dimen121
+\pgf@xc=\dimen122
+\pgf@yc=\dimen123
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count127
+\c@pgf@countb=\count128
+\c@pgf@countc=\count129
+\c@pgf@countd=\count130
+\t@pgf@toka=\toks19
+\t@pgf@tokb=\toks20
+\t@pgf@tokc=\toks21
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count131
+\pgfsyssoftpath@bigbuffer@items=\count132
+)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen124
+\pgfmath@count=\count133
+\pgfmath@box=\box28
+\pgfmath@toks=\toks22
+\pgfmath@stack@operand=\toks23
+\pgfmath@stack@operation=\toks24
+)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count134
+)) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen125
+\pgf@picmaxx=\dimen126
+\pgf@picminy=\dimen127
+\pgf@picmaxy=\dimen128
+\pgf@pathminx=\dimen129
+\pgf@pathmaxx=\dimen130
+\pgf@pathminy=\dimen131
+\pgf@pathmaxy=\dimen132
+\pgf@xx=\dimen133
+\pgf@xy=\dimen134
+\pgf@yx=\dimen135
+\pgf@yy=\dimen136
+\pgf@zx=\dimen137
+\pgf@zy=\dimen138
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen139
+\pgf@path@lasty=\dimen140
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen141
+\pgf@shorten@start@additional=\dimen142
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box29
+\pgf@hbox=\box30
+\pgf@layerbox@main=\box31
+\pgf@picture@serial@count=\count135
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen143
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen144
+\pgf@pt@y=\dimen145
+\pgf@pt@temp=\dimen146
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen147
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen148
+\pgf@sys@shading@range@num=\count136
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box32
+))
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box33
+)
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen149
+\pgf@nodesepend=\dimen150
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen151
+\pgffor@skip=\dimen152
+\pgffor@stack=\toks25
+\pgffor@toks=\toks26
+))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count137
+\pgfplotmarksize=\dimen153
+)
+\tikz@lastx=\dimen154
+\tikz@lasty=\dimen155
+\tikz@lastxsaved=\dimen156
+\tikz@lastysaved=\dimen157
+\tikzleveldistance=\dimen158
+\tikzsiblingdistance=\dimen159
+\tikz@figbox=\box34
+\tikz@figbox@bg=\box35
+\tikz@tempbox=\box36
+\tikz@tempbox@bg=\box37
+\tikztreelevel=\count138
+\tikznumberofchildren=\count139
+\tikznumberofcurrentchild=\count140
+\tikz@fig@count=\count141
+ (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count142
+\pgfmatrixcurrentcolumn=\count143
+\pgf@matrix@numberofcolumns=\count144
+)
+\tikz@expandcount=\count145
+
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+arrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2013/09/23 v3.0.1a (rcs-revision 1.16)
+\arrowsize=\dimen160
+))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.pathmorphing.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+decorations.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen161
+\pgfdecoratedremainingdistance=\dimen162
+\pgfdecoratedinputsegmentcompleteddistance=\dimen163
+\pgfdecoratedinputsegmentremainingdistance=\dimen164
+\pgf@decorate@distancetomove=\dimen165
+\pgf@decorate@repeatstate=\count146
+\pgfdecorationsegmentamplitude=\dimen166
+\pgfdecorationsegmentlength=\dimen167
+)
+\tikz@lib@dec@box=\box38
+)
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorati
+ons.pathmorphing.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+backgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2013/07/18 v3.0.1a (rcs-revision 1.3)
+\pgf@layerbox@background=\box39
+\pgf@layerboxsaved@background=\box40
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+fit.code.tex
+File: tikzlibraryfit.code.tex 2013/07/12 v3.0.1a (rcs-revision 1.5)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+calc.code.tex
+File: tikzlibrarycalc.code.tex 2013/07/15 v3.0.1a (rcs-revision 1.9)
+)
+\XyMTeXnuma=\count147
+\XyMTeXnumb=\count148
+\XyMTeXnumc=\count149
+\XyMTeXnumd=\count150
+\XyMTeXnume=\count151
+\XyMTeXnumf=\count152
+\XyMTeXnumg=\count153
+\XyMTeXnumh=\count154
+\XyMTeXnumi=\count155
+\XyMTeXcnta=\count156
+\XyMTeXcntb=\count157
+\XyMTeXdima=\dimen168
+\XyMTeXdimb=\dimen169
+\XyMTeXdimc=\dimen170
+\XyMTeXdimd=\dimen171
+\XyMTeXdime=\dimen172
+\BondBox=\box41
+\@tempcntXa=\count158
+\@tempcntYa=\count159
+\@tempcntz=\count160
+\@tempcntXb=\count161
+\@tempcntYb=\count162
+\@tempcntzz=\count163
+\@tempcntXc=\count164
+\@tempcntYc=\count165
+\@tempcntzzz=\count166
+\Temp@ArCords=\toks27
+) (/usr/share/texmf-dist/tex/latex/xymtex/xymtxpdf/chmst-pdf.sty
+Package `chmst-pdf' (ver5.00) <October 01, 2010> [SF]
+chmst-pdf.sty ver5.00 (for LaTeX2e) 2010/10/01[SF]
+(/usr/share/texmf-dist/tex/latex/xymtex/chemist/chemist.sty
+Package `chemist' (ver5.01) <June 6, 2013> [SF]
+chemist.sty ver5.01 (for LaTeX2e) 2013/06/06[SF]
+\c@compd=\count167
+\c@deriv=\count168
+\reactarrowsep=\dimen173
+\verbatimleftmargin=\dimen174
+\verbatimbaselineskip=\dimen175
+\hsgr@d=\dimen176
+\vsgr@d=\dimen177
+\vwgr@d=\dimen178
+\hwgr@d=\dimen179
+\vsepgr@d=\dimen180
+\hsepgr@d=\dimen181
+\nrep=\count169
+\nrepmax=\count170
+\ybaselineshift=\dimen182
+\tbaselineshift=\dimen183
+\@savetbaselineshift=\dimen184
+LaTeX Info: Redefining \rm on input line 788.
+LaTeX Info: Redefining \mathversion on input line 892.
+\c@mv@chem=\count171
+LaTeX Font Info:    Encoding `OML' has changed to `OT1' for symbol font
+(Font)              `letters' in the math version `chem' on input line 965.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `chem'
+(Font)                  OML/cmm/m/it --> OT1/cmr/m/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `chem'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/m/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `chem'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/m/n on input line 965.
+\c@mv@boldchem=\count172
+LaTeX Font Info:    Overwriting symbol font `operators' in version `boldchem'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 965.
+LaTeX Font Info:    Encoding `OML' has changed to `OT1' for symbol font
+(Font)              `letters' in the math version `boldchem' on input line 965.
+
+LaTeX Font Info:    Overwriting symbol font `letters' in version `boldchem'
+(Font)                  OML/cmm/m/it --> OT1/cmr/b/n on input line 965.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `boldchem'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/b/n on input line 965.
+\TestCount=\count173
+(/usr/share/texmf-dist/tex/latex/xymtex/chemist/assurechemist.sty
+Part of XyMTeX for Drawing Chemical Structural Formulas. Version 5.00
+ -- Released October 01, 2010 by Shinsaku Fujita
+XyMTeX Macro File `assurechemist' (ver5.00) <October 01, 2010> [SF]
+))
+\@tempdimX=\dimen185
+\@tempdimY=\dimen186
+\@tempdimX=\dimen187
+)) (./molecules_of_life.aux)
+\openout1 = `molecules_of_life.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count174
+\scratchdimen=\dimen188
+\scratchbox=\box42
+\nofMPsegments=\count175
+\nofMParguments=\count176
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count177
+\MPscratchDim=\dimen189
+\MPnumerator=\count178
+\makeMPintoPDFobject=\count179
+\everyMPtoPDFconversion=\toks29
+) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EveryShipout initializing macros
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 36.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (40.6581pt too wide) in paragraph at lines 85--89
+[]\OT1/cmr/m/n/10 Glicerolophospholipides are main com-po-nent of cell mem-bran
+es ( 40%). Glicerolophos-
+ []
+
+[3] (./molecules_of_life.aux) ) 
+Here is how much of TeX's memory you used:
+ 15227 strings out of 493013
+ 301368 string characters out of 6139317
+ 563279 words of memory out of 5000000
+ 18463 multiletter control sequences out of 15000+600000
+ 8241 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 69i,22n,131p,497b,964s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on molecules_of_life.pdf (3 pages, 101183 bytes).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+
